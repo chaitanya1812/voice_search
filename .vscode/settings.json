@@ -1,0 +1,4 @@
+{
+    // "python.pythonPath": "/Users/${env:USER}/anaconda3/envs/speech_to_text/bin/python"
+    "python.pythonInterpreter":"${env:PYTHON_PATH_SPEECH_TO_TEXT}",
+}

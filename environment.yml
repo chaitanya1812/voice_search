@@ -1,0 +1,15 @@
+name: speech_to_text
+dependencies:
+  - PyTorch
+  - python=3.9
+  - pip
+  - pip:
+    - pyaudio
+    - SpeechRecognition
+    - google-api-python-client
+    - google-auth-httplib2
+    - google-auth-oauthlib
+    - requests
+    - beautifulsoup4
+    - transformers
+    - gtts
